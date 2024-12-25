@@ -1,2 +1,2 @@
 # Projects
-This is my website projects
+This is my web projects
